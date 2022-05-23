@@ -1,0 +1,55 @@
+//My css information is pretty bad here I tried and found stuff so it might be some of the codes are really unnecessary.
+.input1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  top: 10%;
+  left: 0%;
+}
+.head1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+position: absolute;
+  margin: 0;
+  top: 3%;
+  left: 1%;
+  color:cornflowerblue;
+  font-size: calc(23px);
+}
+.btn1 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  margin: 0;
+  top: 15%;
+  left: 4%;
+  padding: 10px 20px;
+  background-color: darkgray;
+  color:black;
+  cursor: pointer;
+}
+.btn2 {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  position: absolute;
+  margin: 0;
+  top: 23%;
+  left: 4%;
+  padding: 10px 21px;
+  background-color: darkgray;
+  color: black;
+  cursor: pointer;
+}
+.TextHolder {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  margin: 0;
+  position: absolute;
+  top: 15%;
+  left: 12%;
+  background-color:darkgrey ;
+  min-height: 15vh;
+  min-width: 36vh;
+  max-width:fit-content;
+  display:grid;
+  align-items: center;
+  justify-content: center;
+  color: black;
+}
+
